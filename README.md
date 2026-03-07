@@ -94,9 +94,9 @@ Grouped similar industry names under a unified label.
 Example:
 
 ```
+Crypto 
+CryptoCurrency
 Crypto Currency
-Crypto Exchange
-Crypto Platform
 ```
 
 Standardized to:
